@@ -13,7 +13,7 @@
 12 fairly positive
 
 ### 1/14
-Women are better at looking after children because we as a species share a lot of the genetic code with prehistoric humans. That was a period in which men would typically hunt animals and women gather berries/nuts which is an activity that is compatible with taking care of a child whilst doing it.
+Women are better at looking after children because we as a species share a lot of the genetic code with prehistoric humans. That was a period in which men would typically hunt animals and women gather berries/nuts which is an activity that taking care of a child whilst doing it.
 
 Men are better at being alone, because most of the solitary monks are men. Also historically it was unnatural for a woman to be alone (she would be accompanied at least by her children). 
 

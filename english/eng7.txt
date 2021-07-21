@@ -1,0 +1,28 @@
+SB
+8)
+1h
+2a
+3c
+4b
+5g
+6d
+7f
+8e
+
+9)
+1 It's really wonderful to think that we are living in the current age instead of any other.
+2 It always surprises me when there is a flood.
+3 It's a pity that there is no sea in Czechia.
+4 It's no use worrying about the uninfluencable.
+5 It cannot be denied that the Earth is round.
+6 It appears to me that most people are not rational.
+7 I always apperciate it when it's sunny.
+8 I hate it when I don't understand a lecture.
+
+
+ESP
+EGB = AGH they are vertically opposite angles
+EGB = CHF they are alternate angles
+EGB = GHD they are corresponding angles
+EGB + AGE = 180 they are adjacent angles on a straight line
+EGB + BGH = 180 they are interior angles on the same side of the transverse line

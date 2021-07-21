@@ -1,0 +1,28 @@
+2.
+a,b
+1 I was hooked. I couldn't put the book down.
+2 It's very readable. It has a nice, easy style. 
+3 The story is gripping. The story really holds your attention.
+4 I found the story quite moving. I was emotionally involved in it. 
+5 the characters are one-dimensional.They didn't really come alive for me. 
+6 It's based on a true story. It depicts real events.
+7 I'm a real bookworm. I'm an avid reader
+8 It's a best-seller. It has sold a lot of copies.
+
+3.
+1gripping
+2hooked
+3one
+4put
+5bookworm
+6 avid 
+7readable
+8moving
+
+7
+a1,6
+b4
+c2
+d3
+e1
+f5

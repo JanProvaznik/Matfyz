@@ -1,0 +1,40 @@
+body {
+    background-color: azure;
+    padding: 50px;
+}
+
+.example {
+    font-style: italic;
+}
+
+a:hover {
+    background-color: crimson;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+#special {
+    color: pink;
+    line-height: 5cm;
+}
+
+#special+li {
+    text-indent: 1cm
+}
+
+th {
+    text-align: center;
+}
+
+td[rowspan="6"] {
+    color: blue;
+    width:20px;
+}
+
+table {
+    margin: 50px;
+    border-style: dashed;
+}

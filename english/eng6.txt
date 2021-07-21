@@ -1,0 +1,62 @@
+NTEASB
+5a 
+thinking of going
+advised to do
+
+6
+1 thinking about visiting
+2 afford to eat
+3 imagine living
+4 are looking forward to seeing 
+5 avoid offending
+6 mind looking
+7 fancy eating
+8 want to live
+9 can't stand shopping
+10 object to paying
+11 advise to go 
+12 encourage to try
+13 urge to visit
+14 recommend going
+15 persuaded us to visit
+
+8
+verb+-ing
+3,4,6,7,9,14
+verb+infinitive
+2,8,11,13
+verb+object+infinitive with to
+4,12,15
+verb+preposition+-ing
+1,10
+
+
+ESP
+2
+a
+alpha right
+beta reflex
+gamma obtuse
+delta acute
+c
+alpha acute
+beta acute
+gamma obtuse
+delta reflex
+
+4
+There are two obtuse triangles ABE and DCF. Both have their longest sides (AB,CD) horizontal. Acute angle EAB is smaller than acute angle EBA.
+They are centrally symmetric and the inversion point is on the line segment FE. 
+
+
+Frasier
+1.
+recreating a mysterious radio play
+2.
+It breaks completely.
+3.
+Micromanager, overly punctual, optimistic
+4.
+Niles knows his flaws and they annoy him.
+5.
+Frasier, because of his futile attempt to salvage the play.
